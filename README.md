@@ -14,4 +14,4 @@ The password generated is 8 characters long and includes the following character
  </ul>
 The ASCII Code has been used to generate code for presenting English characters as numbers, which each character is assigned a number from 0 to 127.<br>
 
-![Screenshot of the working program](/Screenshot(1).png)
+[![Screenshot-1.png](https://i.postimg.cc/02VVd91F/Screenshot-1.png)](https://postimg.cc/7fT1q86n)
